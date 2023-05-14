@@ -226,13 +226,14 @@ p{
 
 header {
     text-align: center;
-	font-size: xx-large;
+	font-size: 6em;
 	font-weight: 500;
 	font-family: 'Ubuntu', sans-serif;
 	color: white;
     background-color: var(--background);
     padding-bottom: 15px;
     margin-bottom: 35px;
+    width: 100%;
 }
 
 button {
