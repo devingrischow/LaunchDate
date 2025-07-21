@@ -14,7 +14,7 @@ Data from the API is extracted in seperate functions depending on what list is b
 
 ## Design & Use
 
-Everything is designed to be data feed, no information is hard coded.
+Everything is designed to be data feed and dynamic, no information is hard coded.
 
 Custom Handlers are made to help showcase more data easily as well. The most notable example being `Orbit Type`. Orbit Type when called from the API is just a string, but most users might not know what LEO and GEO mean.
 
