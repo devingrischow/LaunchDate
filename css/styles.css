@@ -107,7 +107,7 @@ h1, h2, h3, h4, h5, h6{
 }
 h1{
 	text-align: center;
-	font-size: 4em;
+	font-size: 10vw;
 	font-weight: 800;
 	font-family: 'Ubuntu', sans-serif;
 	color: white;
@@ -226,14 +226,15 @@ p{
 
 header {
     text-align: center;
-	font-size: 6em;
+	font-size: 6vw;
 	font-weight: 500;
 	font-family: 'Ubuntu', sans-serif;
 	color: white;
     background-color: var(--background);
-    padding-bottom: 15px;
+    padding: 15px;
     margin-bottom: 35px;
-    width: 100%;
+	display: flex;
+	justify-content: flex-start;
 }
 
 button {
@@ -476,9 +477,7 @@ footer {
 
 
 body{
-	background-image: url("../images/kennedy-space-center-fla-on-launch-pad-17-b-cape-canaveral-air-force-station.jpg");
-	background-size: cover;
-	background-repeat: no-repeat;
+	background-color: black;
     margin:auto;
 }
 nav{

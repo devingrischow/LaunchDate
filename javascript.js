@@ -1,3 +1,8 @@
+//API used for rocket Information: 
+//https://thespacedevs.com/llapi
+
+
+
 // //connect to API first 
 // var request = new XMLHttpRequest();
 // //adding the ? after the link tells it that everything after is a  parameter
